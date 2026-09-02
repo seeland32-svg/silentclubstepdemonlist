@@ -28,10 +28,16 @@
             "hz": 120
         },
         {
-            "user": "amogsolidus",
+            "user": "Amogsolidus",
             "link": "https://youtu.be/wZgG2Am2k3o",
             "percent": 100,
             "hz": 120
-        }  
+        },
+        {
+            "user": "Blooxie",
+            "link": "https://www.youtube.com/watch?v=ilvMMl6557I",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
